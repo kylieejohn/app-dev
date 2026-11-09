@@ -3,7 +3,9 @@
 ## Avengers: Endgame
 
 ### About the Movie
-*Avengers: Endgame* is one of my many favorite movies because it has exciting action scenes, emotional moments, and an amazing storyline.
+*Avengers: Endgame* is one of my favorite movies because it has exciting action scenes, emotional moments, and an amazing storyline.
+
+---
 
 ### Main Characters
 - Iron Man
@@ -34,4 +36,13 @@
 | Director | Anthony Russo, Joe Russo |
 
 ### Official Website
-https://www.marvel.com/movies/avengers-endgame
+
+[Marvel Studios](https://www.marvel.com/movies/avengers-endgame)
+
+### Movie Poster
+
+![Avengers: Endgame Poster](https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg)
+
+### Sample Code
+
+`Avengers Assemble!`
