@@ -3,7 +3,7 @@
 ## Avengers: Endgame
 
 ### About the Movie
-*Avengers: Endgame* is one of my favorite movies because it has exciting action scenes, emotional moments, and an amazing storyline.
+*Avengers: Endgame* is one of my many favorite movies because it has exciting action scenes, emotional moments, and an amazing storyline.
 
 ### Main Characters
 - Iron Man
